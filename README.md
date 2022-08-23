@@ -1,4 +1,4 @@
-# Detecting fake news articles and performing text summarisation using machine learning
+# Detecting Fake News Articles And Performing Text Summarisation Using Machine Learning
 
 This experimental project was built in the Python programming language and various machine learning libraries to train different classifiers to detect fake news and perform text summarisation.
 
