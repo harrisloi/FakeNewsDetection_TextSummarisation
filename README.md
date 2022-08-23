@@ -1,8 +1,8 @@
-# FakeNewsDetection_TextSummarisation
+# Detecting fake news articles and performing text summarisation using machine learning
 
 This experimental project was built in the Python programming language and various machine learning libraries to train different classifiers to detect fake news and perform text summarisation.
 
-There are total five experiments all included in one Jupyter notebook.
+There are total five experimental setups all included in one Jupyter notebook.
 
 # Machine Learning Model
 1. Support Vector Machine
